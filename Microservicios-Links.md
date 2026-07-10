@@ -10,3 +10,4 @@ incidentes https://incidentes.onrender.com
 tipo trabajo = https://tipotrabajo.onrender.com
 drones= https://drones1-1.onrender.com
 empresa provedora = https://empresaproveedora1.onrender.com
+api getway = https://api-getway-nrt.onrender.com
